@@ -6,7 +6,7 @@ Automatically submit lots of forms with like 40 lines of code
 
 Run this:
 
-        pip install requirements.txt
+        pip install -r requirements.txt
 
 ## Usage
 
